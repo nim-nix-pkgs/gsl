@@ -7,33 +7,8 @@
   "license": "GPL3",
   "web": "https://github.com/YesDrX/gsl-nim/",
   "refs": [
-    "refs/heads/main",
+    "fatal: unable to access 'https://github.com/YesDrX/gsl-nim.git/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
     ""
   ],
-  "heads": [
-    {
-      "name": "gsl",
-      "version": "0.1.0",
-      "author": "YesDrX",
-      "desc": "GNU Scientific Library for nim",
-      "license": "MIT",
-      "skipDirs": [
-        "sample",
-        "lib",
-        "include",
-        "test"
-      ],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/heads/main"
-    }
-  ]
+  "heads": []
 }
